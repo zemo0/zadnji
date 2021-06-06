@@ -9,7 +9,7 @@
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Brzo planiranje</h2>
           <p class="animate__animated animate__fadeInUp">Doodle je vaše središte za profesionalno i učinkovito zakazivanje sastanaka, uklanjajući gnjavažu s naprijed-natrag e-poštom kako biste se mogli vratiti na posao.</p>
-          <a href="about.html" class="btn-get-started animate__animated animate__fadeInUp">Saznajte više</a>
+          <a href="about" class="btn-get-started animate__animated animate__fadeInUp">Saznajte više</a>
         </div>
       </div>
 
@@ -18,7 +18,7 @@
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Ne treba 30 poruka da se dogovori sastanak</h2>
           <p class="animate__animated animate__fadeInUp">Dogovorite sastanke brzo sa pametnom moći planiranja Doodla.</p>
-          <a href="about.html" class="btn-get-started animate__animated animate__fadeInUp">Saznajte više</a>
+          <a href="about" class="btn-get-started animate__animated animate__fadeInUp">Saznajte više</a>
         </div>
       </div>
 
@@ -28,16 +28,16 @@
           <h2 class="animate__animated animate__fadeInDown">Nikad ne pitajte "koje vrijeme vam odgovara?" opet</h2>
           <p class="animate__animated animate__fadeInUp">
             Pomoću vaše stranice prilagođenog rasporeda, klijenti mogu lako vidjeti vašu dostupnost u stvarnom vremenu i samostalno zakazati svoje sastanke.</p>
-            <a href="about.html" class="btn-get-started animate__animated animate__fadeInUp">Saznajte više</a>
+            <a href="about" class="btn-get-started animate__animated animate__fadeInUp">Saznajte više</a>
         </div>
       </div>
 
       <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon bx bx-chevron-left" aria-hidden="true"></span>
+        <span aria-hidden="true" style="font-size:50px;">←</span>
       </a>
 
       <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
-        <span class="carousel-control-next-icon bx bx-chevron-right" aria-hidden="true"></span>
+        <span class aria-hidden="true" style="font-size:50px;">→</span>
       </a>
 
     </div>

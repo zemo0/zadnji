@@ -25,11 +25,11 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Korisni linkovi</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="about.html">O nama</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="services.html">Usluge</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://en.wikipedia.org/wiki/Terms_of_service">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://en.wikipedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+              <li> <a href="/">Home</a></li>
+              <li> <a href="about">O nama</a></li>
+              <li> <a href="services">Usluge</a></li>
+              <li> <a href="https://en.wikipedia.org/wiki/Terms_of_service">Terms of service</a></li>
+              <li> <a href="https://en.wikipedia.org/wiki/Privacy_policy">Privacy policy</a></li>
             </ul>
           </div>
 

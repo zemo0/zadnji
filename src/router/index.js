@@ -7,7 +7,7 @@ import About from '../components/About.vue'
 import Contact from '../components/Contact.vue'
 import Pricing from '../components/Pricing.vue'
 import Services from '../components/Services.vue'
-
+import Scheduler from '../components/Scheduler.vue'
 Vue.use(Router)
 const router= new Router({
   routes: [
@@ -36,6 +36,11 @@ const router= new Router({
     name: 'contact',
     component: Contact
   },
+  {
+    path: '/scheduler',
+    name: 'scheduler',
+    component: Scheduler
+  }
 ],
 mode:'history'
 })
