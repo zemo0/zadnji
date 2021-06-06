@@ -16,9 +16,9 @@
             <h3>Free</h3>
             <h4>0kn<span>po mjesecu</span></h4>
             <ul>
-              <li><i class="bx bx-check"></i> Osnovni planer</li>
-              <li class="na"><i class="bx bx-x"></i> <span>Sinkronizacija sastanka na kalendar</span></li>
-              <li class="na"><i class="bx bx-x"></i> <span>1-1 sastanci</span></li>
+              <li>✅ Osnovni planer</li>
+              <li class="na"> ❌Sinkronizacija sastanka na kalendar</li>
+              <li class="na"> ❌1-1 sastanci</li>
             </ul>
             <a href="#" class="get-started-btn">Započni</a>
           </div>
@@ -27,11 +27,11 @@
             <h3>Pro</h3>
             <h4>100kn<span>po mjesecu</span></h4>
             <ul>
-              <li><i class="bx bx-check"></i> Bez reklama</li>
-              <li><i class="bx bx-check"></i> Sinkronizacija sastanka na kalendar</li>
-              <li><i class="bx bx-check"></i> 1-1 sastanci</li>
-              <li><i class="bx bx-check"></i> Podrška za korisnike</li>
-              <li><i class="bx bx-check"></i> Integracija u Microsoft Teams</li>
+              <li> ✅Bez reklama</li>
+              <li> ✅Sinkronizacija sastanka na kalendar</li>
+              <li> ✅1-1 sastanci</li>
+              <li> ✅Podrška za korisnike</li>
+              <li> ✅Integracija u Microsoft Teams</li>
             </ul>
             <a href="#" class="get-started-btn">Započni</a>
           </div>
@@ -40,11 +40,11 @@
             <h3>Tim</h3>
             <h4>300kn<span>po mjesecu</span></h4>
             <ul>
-              <li><i class="bx bx-check"></i> Prilagođena naplata i pravni uvjeti</li>
-              <li><i class="bx bx-check"></i> Prioritetna podrška</li>
-              <li><i class="bx bx-check"></i> Zajamčeno vrijeme odziva</li>
-              <li><i class="bx bx-check"></i> Obuka korisnika</li>
-              <li><i class="bx bx-check"></i> Ugovorna obveza o pružanju usluga</li>
+              <li>✅Prilagođena naplata i pravni uvjeti</li>
+              <li>✅Prioritetna podrška</li>
+              <li>✅Zajamčeno vrijeme odziva</li>
+              <li>✅Obuka korisnika</li>
+              <li>✅Ugovorna obveza o pružanju usluga</li>
             </ul>
             <a href="#" class="get-started-btn">Započni</a>
           </div>
