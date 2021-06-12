@@ -1,6 +1,6 @@
 <template>
     <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center header-transparent">
+  <header id="header" class="fixed-top d-flex align-items-center header-transparent" style="background-color:black;">
     <div class="container d-flex justify-content-between align-items-center">
 
       <div class="logo">
@@ -14,7 +14,7 @@
           <li><a href="services">Usluge</a></li>
           <li><a href="pricing">Cjenik</a></li>
           <li><a href="contact">Kontaktirajte nas</a></li>
-          <li><a href="login">Login</a></li>
+          <li><a href="scheduler">Demo</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

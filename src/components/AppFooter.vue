@@ -50,10 +50,10 @@
             <p>Doodle je najjednostavniji način za zakazivanje sastanaka s klijentima, kolegama ili timovima.<br>
               Globalna poduzeća širom svijeta koriste našu platformu za raspoređivanje i naš moćni API kako bi otkrili kako im Doodle može pomoći uštedjeti vrijeme.</p>
             <div class="social-links mt-3">
-              <a href="https://twitter.com/doodletweet" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="https://www.facebook.com/DoodleAG/" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="https://www.instagram.com/thedoodledesk/?hl=hr" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="https://in.linkedin.com/company/doodle-ag" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              <a href="https://twitter.com/doodletweet" class="twitter">t</a>
+              <a href="https://www.facebook.com/DoodleAG/" class="facebook">f</a>
+              <a href="https://www.instagram.com/thedoodledesk/?hl=hr" class="instagram">i</a>
+              <a href="https://in.linkedin.com/company/doodle-ag" class="linkedin">l</a>
             </div>
           </div>
 
